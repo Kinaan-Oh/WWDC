@@ -1,2 +1,2 @@
 # WWDC
-## Purpose: Memoize(ScreenShot) The Point Of Presentations.
+## Purpose: Memoize ScreenShots Of Presentations.
